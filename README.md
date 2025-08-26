@@ -1,4 +1,4 @@
-# Probability-Simulation-Project  
+# Probability-Simulation-Project C 語言實作：隨機模擬方法在單伺服器排隊系統中的應用與性能分析  
 本專案以 C 語言實作一個以指數分佈為基礎的隨機模擬程式，用來生成到達間隔時間（inter-arrival time）與服務時間（service time），並估計系統的平均在系統人數 𝑁 與平均時間指標 𝑇 (以程式內部的累計時間量度計算）。
 **目標**  
 以亂數模擬法（Monte Carlo）建立單一服務站的排隊過程雛形。  
